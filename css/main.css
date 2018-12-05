@@ -1994,7 +1994,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #12ffa2;
+  background: #578cc3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3384,5 +3384,5 @@ pre {
   margin: 3px 0 25px 0;
 }
 .post-block {
-  padding: 25px 32px;
+  padding: 25px 40px;
 }
